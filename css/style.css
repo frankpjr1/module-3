@@ -1,0 +1,32 @@
+body{
+    background-color: #fff;
+}
+
+li {
+    list-style-type: none;
+   font-size: 1.3em;
+   border:1px solid black;
+}
+
+section
+{
+    background-color: lightgray;
+    padding: 20px 10px 10px 10px;
+    margin-top: 20px;
+    height: 1000px;
+}
+
+
+
+h2, h3 {
+    margin: 40px 0px;
+    text-align:center;
+}
+
+
+ ul{
+     text-align: center;
+ }
+
+}
+
